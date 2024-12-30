@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733570555 source:/home/aya/Desktop/LabCpp/Draw2/main.cpp
+	<iostream>
+	<graphics.h>
+
